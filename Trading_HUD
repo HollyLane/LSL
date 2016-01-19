@@ -14,7 +14,7 @@ default
         receive_amount = 30000 + player; 
 
 
-    if (channel == give_set)
+        if (channel == give_set)
         {
             if ( message == "Milk1") 
             {
@@ -51,3 +51,5 @@ default
                 }
             }
         }
+    }
+}
